@@ -1,0 +1,34 @@
+{
+  "listContact": [
+    {
+      "id": 1,
+      "name": "Sera",
+      "nomorHp": "0811122233",
+      "address": "jl raya suka suka"
+    },
+    {
+      "id": 2,
+      "name": "Holmes",
+      "nomorHp": "0800022233",
+      "address": "jl baker"
+    },
+    {
+      "id": 3,
+      "name": "Mavis",
+      "nomorHp": "0811122299",
+      "address": "jl raya fairytail"
+    },
+    {
+      "name": "Anay",
+      "nomorHp": "08511223344",
+      "address": "jl yuk kemana tah kemana",
+      "id": 4
+    },
+    {
+      "name": "Kucing",
+      "nomorHp": "081223334123",
+      "address": "jl meong meong",
+      "id": 5
+    }
+  ]
+}
